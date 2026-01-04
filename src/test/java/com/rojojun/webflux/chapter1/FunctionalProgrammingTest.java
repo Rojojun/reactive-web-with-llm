@@ -1,9 +1,8 @@
-package com.rojojun.webflux;
+package com.rojojun.webflux.chapter1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import reactor.core.publisher.Flux;
-import reactor.core.publisher.Operators;
 
 import java.util.stream.IntStream;
 

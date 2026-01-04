@@ -1,8 +1,7 @@
-package com.rojojun.webflux;
+package com.rojojun.webflux.chapter1;
 
 import org.junit.jupiter.api.Test;
 import reactor.core.publisher.Flux;
-import reactor.core.scheduler.Scheduler;
 import reactor.core.scheduler.Schedulers;
 
 public class SubscriberPublisherAsyncTest {
